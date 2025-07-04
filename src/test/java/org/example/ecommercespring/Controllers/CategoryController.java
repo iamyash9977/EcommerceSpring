@@ -1,4 +1,4 @@
-package org.example.ecommercespring.controllers;
+package org.example.ecommercespring.Controllers;
 
 import org.example.ecommercespring.dto.CategoryDTO;
 import org.example.ecommercespring.services.ICategoryService;
