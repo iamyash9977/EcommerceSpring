@@ -4,6 +4,8 @@ import org.example.ecommercespring.dto.CategoryDTO;
 import org.example.ecommercespring.dto.FakeStoreCategoryResponseDTO;
 import org.example.ecommercespring.gateway.api.FakeStoreCategoryApi;
 import org.springframework.stereotype.Component;
+import org.example.ecommercespring.mappers.GetAllCategoriesMapper;
+
 
 import java.io.IOException;
 import java.util.List;
